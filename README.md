@@ -22,3 +22,6 @@ The ripple originates from the exact mouse position using CSS variables.
 
 ## How to Run
 Open `index.html` in the browser or use Live Server.
+
+## Live Demo
+https://chayank26.github.io/Button-Ripple-Effect/
